@@ -1,3 +1,3 @@
 # Team Rio
 
-Project repo
+A donation application to help rescue and empower an abused child.
